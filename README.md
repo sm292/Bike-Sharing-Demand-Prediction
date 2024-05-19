@@ -2,12 +2,17 @@
 
 - **_Project Type_** - EDA/Regression
 - **_Contribution_** - Individual
+
 - **_Objective_** - The primary objective of the specific project work is to determine an effective model with higher accuracy which can help develop suitable predictions of the bike rent for different factors like hours of day, season and so on.
+  
 - **_Libraries Used_** - Numpy, Pandas, Matplotlib, Seaborn, Sklearn, XGBRegressor
-- **_Methods used_** - Matlotlib and Seaborn Plots for Visualisation
-                - Hypothesis Testing (ANOVA and Pearson Correlation)
-                - Regression Methods
-                - Grid search Hyperparameter Tuning
+  
+- **_Methods used_** -
+1. Matlotlib and Seaborn Plots for Visualisation
+2. Hypothesis Testing (ANOVA and Pearson Correlation)
+3. Regression Methods
+4. Grid search Hyperparameter Tuning
+   
 - **_Data Description_**
 
 
