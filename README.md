@@ -1,4 +1,4 @@
-# Project Name - Regression - Bike Sharing Demand Prediction
+## Project Name - Regression - Bike Sharing Demand Prediction
 
 - Project Type - EDA/Regression
 - Contribution - Individual
